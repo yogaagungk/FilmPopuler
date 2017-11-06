@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_popular"
+        android:enabled="true"
+        android:icon="@drawable/ic_star_white_24dp"
+        android:title="Popular Movie" />
+    <item
+        android:id="@+id/action_favorite"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_white_24dp"
+        android:title="Favorite Movie" />
+    <item
+        android:id="@+id/action_highest"
+        android:enabled="true"
+        android:icon="@drawable/ic_rate_review_white_24dp"
+        android:title="Action Movie" />
+</menu>
